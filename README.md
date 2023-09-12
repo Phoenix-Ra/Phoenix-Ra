@@ -11,3 +11,6 @@ mods and library features I made:
     <img width=150px align="center" src="https://static.vecteezy.com/system/resources/thumbnails/022/721/714/small/youtube-logo-for-popular-online-media-content-creation-website-and-application-free-png.png">
 </a></p></p>
 
+<p><a target="_blank" href="https://discord.gg/R2Wk5ZRXxp" alt="Discord">
+    Contact me
+</a></p>
