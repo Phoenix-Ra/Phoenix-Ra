@@ -2,10 +2,6 @@ Ahoj! 👋
 
 I'm a self-taught passionate Java&Kotlin Developer
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phoenix-Ra&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-Ra&size_weight=0.5&count_weight=0.5&langs_count=8&theme=radical)
-
-
-
 <p>Check out my YT channel where you can find demos of some plugins,
 mods and library features I made:
 
@@ -16,3 +12,5 @@ mods and library features I made:
 <p><a target="_blank" href="https://discord.gg/R2Wk5ZRXxp" alt="Discord">
     Contact me
 </a></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phoenix-Ra&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-Ra&size_weight=0.5&count_weight=0.5&langs_count=8&theme=radical)
