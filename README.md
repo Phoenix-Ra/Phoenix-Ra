@@ -1,6 +1,6 @@
 Ahoj! 👋
 
-I'm a self-taught passionate Java&Kotlin Developer
+I'm a self-taught passionate Java Developer
 
 <p>Check out my YT channel where you can find demos of some plugins,
 mods and library features I made:
